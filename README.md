@@ -1,4 +1,4 @@
-# SwiftLibrary
+# SwiftColourLibrary
 
 ## Purpose
 
