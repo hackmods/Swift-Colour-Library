@@ -16,7 +16,7 @@ All functionallity is supported in swift adaptations, although your millage may 
 
 ## License
 
-Copyright [2016] [Ryan Morris and Brad Gillap]
+Copyright [2016] [Ryan Morris]
 
 Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
