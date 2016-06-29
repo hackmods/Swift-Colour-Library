@@ -4,7 +4,7 @@
 
 A swift iOS library that converts, generates, and applies colours to UI components. The library includes creating UI colours from HEX, RGB, and Int32. Aditionally it has the capacity  to generate several random colour swatches of various tones.
 
-![SwiftLibrary](https://raw.githubusercontent.com/hackmods/iPod-Swipe-Control/master/images/SwiftLibrary.png)
+![SwiftLibrary](https://raw.githubusercontent.com/hackmods/Swift-Colour-Library/master/images/SwiftLibrary.png)
 
 ## Use Case
 
